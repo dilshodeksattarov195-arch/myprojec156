@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerralidate",
+        "uuid": 1086852,
+        "checksum": "0grfva"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
